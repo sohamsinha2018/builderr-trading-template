@@ -168,8 +168,8 @@ ENTRY = {
     # Revision received before the Aug 10 market open; score it forward only.
     "sham": "2026-08-10",
     "rishchith": "2026-07-08",
-    # Revision received Aug 22; score it only from the next US market session.
-    "meet": "2026-08-24",
+    # Timely final revision received Aug 30; score it from the next US market session.
+    "meet": "2026-08-31",
     # Latest revision received before the Aug 26 US market open; score it forward only.
     "vishwas": "2026-08-26",
     "mahesh": "2026-08-17",

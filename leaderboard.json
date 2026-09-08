@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-05T13:10:12Z",
+  "generated_at_utc": "2026-09-08T12:50:21Z",
   "as_of_market_date": "2026-09-04",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
@@ -90,14 +90,14 @@
     },
     {
       "rank": 9,
-      "name": "meet",
-      "ret": 0.0124,
+      "name": "tanishq",
+      "ret": 0.012,
       "points": 2
     },
     {
       "rank": 10,
-      "name": "tanishq",
-      "ret": 0.012,
+      "name": "mahesh",
+      "ret": 0.0095,
       "points": 2
     }
   ],
@@ -227,17 +227,6 @@
       "as_of": "2026-09-04"
     },
     {
-      "name": "meet",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 101236.63,
-      "pnl": 1236.63,
-      "ret": 0.0124,
-      "trades": 22,
-      "days": 10,
-      "since": "2026-08-24",
-      "as_of": "2026-09-04"
-    },
-    {
       "name": "tanishq",
       "label": "round 2 \u00b7 entrant",
       "equity": 101200.48,
@@ -352,6 +341,17 @@
       "trades": 45,
       "days": 44,
       "since": "2026-07-07",
+      "as_of": "2026-09-04"
+    },
+    {
+      "name": "meet",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 100000.0,
+      "pnl": 0.0,
+      "ret": 0.0,
+      "trades": 0,
+      "days": 5,
+      "since": "2026-08-31",
       "as_of": "2026-09-04"
     },
     {
