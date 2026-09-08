@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-08T12:50:21Z",
-  "as_of_market_date": "2026-09-04",
+  "generated_at_utc": "2026-09-08T15:34:36Z",
+  "as_of_market_date": "2026-09-08",
   "round_id": "trading-v0-round-2",
   "round_name": "Round 2",
   "round_start": "2026-07-07",
@@ -17,87 +17,87 @@
     "name": "arnav",
     "label": "Round 1 winner",
     "rule": "Round 2 prize and builder points require beating Arnav's Round 2 forward return.",
-    "ret": -0.0156
+    "ret": -0.0285
   },
   "prize_positions": [
     {
       "rank": 1,
-      "name": "dhruv",
-      "ret": 0.0612,
+      "name": "vishwas",
+      "ret": 0.0623,
       "prize": "$600"
     },
     {
       "rank": 2,
-      "name": "ajai",
-      "ret": 0.0588,
+      "name": "opu",
+      "ret": 0.0527,
       "prize": "$250"
     },
     {
       "rank": 3,
-      "name": "vishwas",
-      "ret": 0.0546,
+      "name": "dhruv",
+      "ret": 0.0467,
       "prize": "$150"
     }
   ],
   "points_positions": [
     {
       "rank": 1,
-      "name": "dhruv",
-      "ret": 0.0612,
+      "name": "vishwas",
+      "ret": 0.0623,
       "points": 30
     },
     {
       "rank": 2,
-      "name": "ajai",
-      "ret": 0.0588,
+      "name": "opu",
+      "ret": 0.0527,
       "points": 20
     },
     {
       "rank": 3,
-      "name": "vishwas",
-      "ret": 0.0546,
+      "name": "dhruv",
+      "ret": 0.0467,
       "points": 15
     },
     {
       "rank": 4,
       "name": "sham",
-      "ret": 0.053,
+      "ret": 0.0447,
       "points": 10
     },
     {
       "rank": 5,
-      "name": "opu",
-      "ret": 0.0499,
+      "name": "ajai",
+      "ret": 0.0423,
       "points": 8
     },
     {
       "rank": 6,
-      "name": "aarya",
-      "ret": 0.0259,
+      "name": "balaji",
+      "ret": 0.0228,
       "points": 6
     },
     {
       "rank": 7,
-      "name": "balaji",
-      "ret": 0.0247,
+      "name": "aarya",
+      "ret": 0.0179,
       "points": 4
     },
     {
       "rank": 8,
       "name": "raam",
-      "ret": 0.0174,
+      "ret": 0.0115,
       "points": 3
     },
     {
       "rank": 9,
-      "name": "tanishq",
-      "ret": 0.012,
+      "name": "arya",
+      "ret": 0.009,
       "points": 2
     },
     {
       "rank": 10,
-      "name": "mahesh",
-      "ret": 0.0095,
+      "name": "tanishq",
+      "ret": 0.0033,
       "points": 2
     }
   ],
@@ -139,147 +139,114 @@
   "note": "Live Round 2 \u2014 standings refresh from the latest fetched market bars. Arnav, the Round 1 winner, is the published benchmark. Prize positions and builder points are entrant-only and only unlock for current entries that beat Arnav over the Round 2 forward window. A row whose as_of date trails the board is shown for continuity but cannot hold a prize or points position until it is rescored. Each agent starts a $100,000 paper account at its first scored market session and is scored only from there \u2014 so no one can optimise against market history they had already seen, and submitting later gives no edge. 'days' is each bot's live window so far. Same data and fills for everyone.",
   "bots": [
     {
-      "name": "dhruv",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 106116.85,
-      "pnl": 6116.85,
-      "ret": 0.0612,
-      "trades": 42,
-      "days": 29,
-      "since": "2026-07-28",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "ajai",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 105877.52,
-      "pnl": 5877.52,
-      "ret": 0.0588,
-      "trades": 60,
-      "days": 23,
-      "since": "2026-08-05",
-      "as_of": "2026-09-04"
-    },
-    {
       "name": "vishwas",
       "label": "round 2 \u00b7 entrant",
-      "equity": 105455.75,
-      "pnl": 5455.75,
-      "ret": 0.0546,
+      "equity": 106233.62,
+      "pnl": 6233.62,
+      "ret": 0.0623,
       "trades": 17,
-      "days": 8,
+      "days": 9,
       "since": "2026-08-26",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "sham",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 105302.92,
-      "pnl": 5302.92,
-      "ret": 0.053,
-      "trades": 54,
-      "days": 20,
-      "since": "2026-08-10",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "opu",
       "label": "round 2 \u00b7 entrant",
-      "equity": 104993.69,
-      "pnl": 4993.69,
-      "ret": 0.0499,
+      "equity": 105272.18,
+      "pnl": 5272.18,
+      "ret": 0.0527,
       "trades": 25,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
-      "name": "aarya",
+      "name": "dhruv",
       "label": "round 2 \u00b7 entrant",
-      "equity": 102591.13,
-      "pnl": 2591.13,
-      "ret": 0.0259,
-      "trades": 3,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "equity": 104673.79,
+      "pnl": 4673.79,
+      "ret": 0.0467,
+      "trades": 45,
+      "days": 30,
+      "since": "2026-07-28",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "sham",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 104473.76,
+      "pnl": 4473.76,
+      "ret": 0.0447,
+      "trades": 60,
+      "days": 21,
+      "since": "2026-08-10",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "ajai",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 104226.51,
+      "pnl": 4226.51,
+      "ret": 0.0423,
+      "trades": 60,
+      "days": 24,
+      "since": "2026-08-05",
+      "as_of": "2026-09-08"
     },
     {
       "name": "balaji",
       "label": "round 2 \u00b7 entrant",
-      "equity": 102470.46,
-      "pnl": 2470.46,
-      "ret": 0.0247,
+      "equity": 102275.61,
+      "pnl": 2275.61,
+      "ret": 0.0228,
       "trades": 34,
-      "days": 26,
+      "days": 27,
       "since": "2026-07-31",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "aarya",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 101793.51,
+      "pnl": 1793.51,
+      "ret": 0.0179,
+      "trades": 3,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
     },
     {
       "name": "raam",
       "label": "round 2 \u00b7 entrant",
-      "equity": 101741.28,
-      "pnl": 1741.28,
-      "ret": 0.0174,
+      "equity": 101151.35,
+      "pnl": 1151.35,
+      "ret": 0.0115,
       "trades": 50,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
-      "name": "tanishq",
+      "name": "arya",
       "label": "round 2 \u00b7 entrant",
-      "equity": 101200.48,
-      "pnl": 1200.48,
-      "ret": 0.012,
-      "trades": 44,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "mahesh",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 100952.62,
-      "pnl": 952.62,
-      "ret": 0.0095,
-      "trades": 37,
-      "days": 15,
-      "since": "2026-08-17",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "nagarjuna",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 100906.87,
-      "pnl": 906.87,
-      "ret": 0.0091,
-      "trades": 35,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "sankeerth",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 100905.48,
-      "pnl": 905.48,
-      "ret": 0.0091,
-      "trades": 33,
-      "days": 32,
-      "since": "2026-07-23",
-      "as_of": "2026-09-04"
+      "equity": 100896.78,
+      "pnl": 896.78,
+      "ret": 0.009,
+      "trades": 3,
+      "days": 13,
+      "since": "2026-08-20",
+      "as_of": "2026-09-08"
     },
     {
       "name": "QQQ",
       "label": "market context \u00b7 QQQ buy & hold",
-      "equity": 100625.54,
-      "pnl": 625.54,
-      "ret": 0.0063,
+      "equity": 100747.94,
+      "pnl": 747.94,
+      "ret": 0.0075,
       "trades": 1,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04",
+      "as_of": "2026-09-08",
       "cash": 1395.26,
       "holdings": [
         {
@@ -289,26 +256,37 @@
       ]
     },
     {
-      "name": "arya",
+      "name": "tanishq",
       "label": "round 2 \u00b7 entrant",
-      "equity": 100624.71,
-      "pnl": 624.71,
-      "ret": 0.0062,
-      "trades": 3,
-      "days": 12,
-      "since": "2026-08-20",
-      "as_of": "2026-09-04"
+      "equity": 100325.55,
+      "pnl": 325.55,
+      "ret": 0.0033,
+      "trades": 44,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
     },
     {
-      "name": "shyam",
+      "name": "nagarjuna",
       "label": "round 2 \u00b7 entrant",
-      "equity": 100308.42,
-      "pnl": 308.42,
-      "ret": 0.0031,
-      "trades": 28,
-      "days": 44,
+      "equity": 100282.53,
+      "pnl": 282.53,
+      "ret": 0.0028,
+      "trades": 42,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "sankeerth",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 100240.38,
+      "pnl": 240.38,
+      "ret": 0.0024,
+      "trades": 33,
+      "days": 33,
+      "since": "2026-07-23",
+      "as_of": "2026-09-08"
     },
     {
       "name": "eshwar",
@@ -322,235 +300,279 @@
       "as_of": "2026-07-08"
     },
     {
+      "name": "shyam",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 99969.72,
+      "pnl": -30.28,
+      "ret": -0.0003,
+      "trades": 28,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
       "name": "robert",
       "label": "round 2 \u00b7 entrant",
-      "equity": 100113.66,
-      "pnl": 113.66,
-      "ret": 0.0011,
+      "equity": 99820.35,
+      "pnl": -179.65,
+      "ret": -0.0018,
       "trades": 46,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "eduardo",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 99680.3,
+      "pnl": -319.7,
+      "ret": -0.0032,
+      "trades": 4,
+      "days": 1,
+      "since": "2026-09-08",
+      "as_of": "2026-09-08"
     },
     {
       "name": "om",
       "label": "round 2 \u00b7 entrant",
-      "equity": 100056.8,
-      "pnl": 56.8,
-      "ret": 0.0006,
+      "equity": 99664.12,
+      "pnl": -335.88,
+      "ret": -0.0034,
       "trades": 45,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
-      "name": "meet",
+      "name": "mahesh",
       "label": "round 2 \u00b7 entrant",
-      "equity": 100000.0,
-      "pnl": 0.0,
-      "ret": 0.0,
-      "trades": 0,
-      "days": 5,
-      "since": "2026-08-31",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "yog",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 99790.17,
-      "pnl": -209.83,
-      "ret": -0.0021,
-      "trades": 41,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "krunal",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 99790.17,
-      "pnl": -209.83,
-      "ret": -0.0021,
-      "trades": 41,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "harsh",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 99730.42,
-      "pnl": -269.58,
-      "ret": -0.0027,
-      "trades": 43,
-      "days": 15,
+      "equity": 99578.02,
+      "pnl": -421.98,
+      "ret": -0.0042,
+      "trades": 45,
+      "days": 16,
       "since": "2026-08-17",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "vishal",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 99711.82,
-      "pnl": -288.18,
-      "ret": -0.0029,
-      "trades": 91,
-      "days": 34,
-      "since": "2026-07-21",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "rohan",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 99675.66,
-      "pnl": -324.34,
-      "ret": -0.0032,
-      "trades": 48,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "navika",
       "label": "round 2 \u00b7 entrant",
-      "equity": 99496.5,
-      "pnl": -503.5,
-      "ret": -0.005,
+      "equity": 99414.26,
+      "pnl": -585.74,
+      "ret": -0.0059,
       "trades": 3,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
-      "name": "rohit",
+      "name": "meet",
       "label": "round 2 \u00b7 entrant",
-      "equity": 99238.73,
-      "pnl": -761.27,
+      "equity": 99236.41,
+      "pnl": -763.59,
       "ret": -0.0076,
-      "trades": 56,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "dev",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 99219.3,
-      "pnl": -780.7,
-      "ret": -0.0078,
-      "trades": 25,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "trades": 5,
+      "days": 6,
+      "since": "2026-08-31",
+      "as_of": "2026-09-08"
     },
     {
       "name": "deepika",
       "label": "round 2 \u00b7 entrant",
-      "equity": 99075.82,
-      "pnl": -924.18,
-      "ret": -0.0092,
+      "equity": 99039.13,
+      "pnl": -960.87,
+      "ret": -0.0096,
       "trades": 14,
-      "days": 22,
+      "days": 23,
       "since": "2026-08-06",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "rohan",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 99020.08,
+      "pnl": -979.92,
+      "ret": -0.0098,
+      "trades": 48,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "yog",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 99016.82,
+      "pnl": -983.18,
+      "ret": -0.0098,
+      "trades": 41,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "krunal",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 99016.82,
+      "pnl": -983.18,
+      "ret": -0.0098,
+      "trades": 41,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "harsh",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 98766.62,
+      "pnl": -1233.38,
+      "ret": -0.0123,
+      "trades": 43,
+      "days": 16,
+      "since": "2026-08-17",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "rohit",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 98499.02,
+      "pnl": -1500.98,
+      "ret": -0.015,
+      "trades": 56,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "vishal",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 98445.72,
+      "pnl": -1554.28,
+      "ret": -0.0155,
+      "trades": 96,
+      "days": 35,
+      "since": "2026-07-21",
+      "as_of": "2026-09-08"
     },
     {
       "name": "softpeanut",
       "label": "round 2 \u00b7 entrant",
-      "equity": 99014.94,
-      "pnl": -985.06,
-      "ret": -0.0099,
+      "equity": 98355.06,
+      "pnl": -1644.94,
+      "ret": -0.0164,
       "trades": 14,
-      "days": 13,
+      "days": 14,
       "since": "2026-08-19",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "yuva",
       "label": "round 2 \u00b7 entrant",
-      "equity": 98994.7,
-      "pnl": -1005.3,
-      "ret": -0.0101,
+      "equity": 98241.61,
+      "pnl": -1758.39,
+      "ret": -0.0176,
       "trades": 39,
-      "days": 44,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "nikil",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 98636.79,
-      "pnl": -1363.21,
-      "ret": -0.0136,
-      "trades": 29,
-      "days": 13,
-      "since": "2026-08-19",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "arnav",
-      "label": "benchmark \u00b7 Round 1 winner",
-      "equity": 98443.89,
-      "pnl": -1556.11,
-      "ret": -0.0156,
-      "trades": 64,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "aaryan",
       "label": "round 2 \u00b7 entrant",
-      "equity": 98374.4,
-      "pnl": -1625.6,
-      "ret": -0.0163,
+      "equity": 98159.59,
+      "pnl": -1840.41,
+      "ret": -0.0184,
       "trades": 54,
-      "days": 20,
+      "days": 21,
       "since": "2026-08-10",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "dev",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 98069.52,
+      "pnl": -1930.48,
+      "ret": -0.0193,
+      "trades": 25,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "nikil",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 97978.55,
+      "pnl": -2021.45,
+      "ret": -0.0202,
+      "trades": 37,
+      "days": 14,
+      "since": "2026-08-19",
+      "as_of": "2026-09-08"
     },
     {
       "name": "zaid",
       "label": "round 2 \u00b7 entrant",
-      "equity": 98140.8,
-      "pnl": -1859.2,
-      "ret": -0.0186,
-      "trades": 65,
-      "days": 44,
+      "equity": 97819.23,
+      "pnl": -2180.77,
+      "ret": -0.0218,
+      "trades": 67,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "shivkumar",
       "label": "round 2 \u00b7 entrant",
-      "equity": 98110.9,
-      "pnl": -1889.1,
-      "ret": -0.0189,
-      "trades": 54,
-      "days": 44,
+      "equity": 97317.16,
+      "pnl": -2682.84,
+      "ret": -0.0268,
+      "trades": 61,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "harsimran",
-      "label": "round 2 \u00b7 entrant",
-      "equity": 97973.84,
-      "pnl": -2026.16,
-      "ret": -0.0203,
-      "trades": 47,
-      "days": 44,
-      "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "elamaran",
       "label": "round 2 \u00b7 entrant",
-      "equity": 97945.04,
-      "pnl": -2054.96,
-      "ret": -0.0205,
+      "equity": 97186.96,
+      "pnl": -2813.04,
+      "ret": -0.0281,
       "trades": 41,
-      "days": 40,
+      "days": 41,
       "since": "2026-07-13",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "harsimran",
+      "label": "round 2 \u00b7 entrant",
+      "equity": 97175.8,
+      "pnl": -2824.2,
+      "ret": -0.0282,
+      "trades": 47,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "arnav",
+      "label": "benchmark \u00b7 Round 1 winner",
+      "equity": 97154.18,
+      "pnl": -2845.82,
+      "ret": -0.0285,
+      "trades": 64,
+      "days": 45,
+      "since": "2026-07-07",
+      "as_of": "2026-09-08"
+    },
+    {
+      "name": "ddrives",
+      "label": "round 2 \u00b7 entrant \u00b7 endpoint",
+      "equity": 96609.98,
+      "pnl": -3390.02,
+      "ret": -0.0339,
+      "trades": 14,
+      "days": 16,
+      "since": "2026-08-17",
+      "as_of": "2026-09-08"
     },
     {
       "name": "rishchith",
@@ -559,75 +581,64 @@
       "pnl": -3953.04,
       "ret": -0.0395,
       "trades": 29,
-      "days": 43,
+      "days": 44,
       "since": "2026-07-08",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "darshan",
       "label": "round 2 \u00b7 entrant",
-      "equity": 95430.49,
-      "pnl": -4569.51,
-      "ret": -0.0457,
-      "trades": 83,
-      "days": 44,
+      "equity": 95076.15,
+      "pnl": -4923.85,
+      "ret": -0.0492,
+      "trades": 85,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "aksham",
       "label": "round 2 \u00b7 entrant",
-      "equity": 94647.97,
-      "pnl": -5352.03,
-      "ret": -0.0535,
-      "trades": 81,
-      "days": 44,
+      "equity": 93362.95,
+      "pnl": -6637.05,
+      "ret": -0.0664,
+      "trades": 83,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
-    },
-    {
-      "name": "ddrives",
-      "label": "round 2 \u00b7 entrant \u00b7 endpoint",
-      "equity": 94270.17,
-      "pnl": -5729.83,
-      "ret": -0.0573,
-      "trades": 14,
-      "days": 15,
-      "since": "2026-08-17",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "mohit",
       "label": "round 2 \u00b7 entrant",
-      "equity": 93402.82,
-      "pnl": -6597.18,
-      "ret": -0.066,
-      "trades": 41,
-      "days": 44,
+      "equity": 93034.62,
+      "pnl": -6965.38,
+      "ret": -0.0697,
+      "trades": 43,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "siddu",
       "label": "round 2 \u00b7 entrant",
-      "equity": 92429.81,
-      "pnl": -7570.19,
-      "ret": -0.0757,
-      "trades": 111,
-      "days": 44,
+      "equity": 90692.35,
+      "pnl": -9307.65,
+      "ret": -0.0931,
+      "trades": 113,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     },
     {
       "name": "sumegh",
       "label": "round 2 \u00b7 entrant",
-      "equity": 86261.97,
-      "pnl": -13738.03,
-      "ret": -0.1374,
-      "trades": 38,
-      "days": 44,
+      "equity": 86221.07,
+      "pnl": -13778.93,
+      "ret": -0.1378,
+      "trades": 39,
+      "days": 45,
       "since": "2026-07-07",
-      "as_of": "2026-09-04"
+      "as_of": "2026-09-08"
     }
   ]
 }
